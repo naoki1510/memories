@@ -36,8 +36,10 @@
     <div class="sidebar">
         <!-- いるかこれ？ -->
     </div>
-    <div class="footer">
-        <footer></footer>
+    <div class="footer-container">
+        <div class="footer">
+            <footer></footer>
+        </div>
     </div>
 </body>
 
